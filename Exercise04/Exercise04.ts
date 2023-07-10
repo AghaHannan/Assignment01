@@ -1,0 +1,1 @@
+console.log("Andrew Tate "+'once Said: "What Color is your Bugatti?"')
